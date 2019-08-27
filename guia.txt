@@ -1,0 +1,5 @@
+integrei o bootstrap 
+contruir tela inicial e adicionar rota para root, ficando assim como p[agina de entrada
+
+gerando os cruds
+rails g scaffold People name:string age:number weight:number height:number
